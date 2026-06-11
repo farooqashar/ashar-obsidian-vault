@@ -2,3 +2,9 @@
 .obsidian/workspace.json
 .obsidian/graph.json
 .obsidian/plugins/obsidian-git/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
