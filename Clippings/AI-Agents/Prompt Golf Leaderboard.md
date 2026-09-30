@@ -8,6 +8,8 @@ created: 2026-08-09
 description: "Prompt Golf: Prompt Engineering As A Sport. Prompt in least strokes to get the AI to respond with the correct answer. Lowest score wins."
 tags:
   - "clippings"
+  - "fun"
+  - "agent-infra"
 ---
 ./live-leaderboard live
 

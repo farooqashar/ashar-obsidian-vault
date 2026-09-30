@@ -7,6 +7,8 @@ created: 2026-09-21
 description: "Forgejo is a self-hosted lightweight software forge. Easy to install and low maintenance, it just does the job."
 tags:
   - "clippings"
+  - "devops-practice"
+  - "git-forge"
 ---
 ## Forgejo
 

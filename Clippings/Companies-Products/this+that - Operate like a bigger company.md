@@ -7,6 +7,8 @@ created: 2026-09-26
 description: "this+that reads every message your team gets, does what the message asks for, and keeps everyone on the same page. Free for 30 days, then from $29/user/month."
 tags:
   - "clippings"
+  - "saas-products"
+  - "startups"
 ---
 ## Operate likea bigger company.
 

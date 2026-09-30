@@ -7,6 +7,8 @@ created: 2026-08-15
 description:
 tags:
   - "clippings"
+  - "saas-products"
+  - "agent-infra"
 ---
 **AI was single-player. SuperApp makes it multiplayer — natively.**  
 Your whole team and the world’s leading AI models think, debate, and create together in one live thread — from the first idea to the final deliverable.

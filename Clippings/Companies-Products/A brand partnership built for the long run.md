@@ -8,6 +8,8 @@ created: 2026-06-11
 description: "Temporal is Crystal Palace FC's front-of-shirt partner. Two institutions built to last: one on the pitch, one in your stack."
 tags:
   - "clippings"
+  - "saas-products"
+  - "devops-practice"
 ---
 > "People would ask, why have you done this? And I remember saying to someone, because it made me think about it. Because it matters. And in your life, something has to matter. And you know, for most of us, it's our football team."
 > 

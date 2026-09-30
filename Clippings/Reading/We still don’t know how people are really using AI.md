@@ -8,6 +8,7 @@ created: 2026-08-18
 description: "We still don’t know how people are really using AI"
 tags:
   - "clippings"
+  - "essays"
 ---
 But a new study shows that work use cases make up less of the picture than AI companies claim.
 

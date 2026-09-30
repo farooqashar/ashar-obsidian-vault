@@ -7,6 +7,8 @@ created: 2026-09-21
 description: "Instinct is a personal assistant that understands your work and takes action across your applications and devices."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 The interface is simple: there are no new interfaces. It's trained to use a phone and a computer. You can text or call it. It uses its devices in the same way that humans do.
 

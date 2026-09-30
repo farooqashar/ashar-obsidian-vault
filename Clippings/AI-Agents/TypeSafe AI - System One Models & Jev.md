@@ -7,6 +7,8 @@ created: 2026-09-16
 description: "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "startups"
 ---
 ![](https://framerusercontent.com/images/P5deyaXUiEjZxxqxpUI5Q9Kgg.gif?width=1440&height=540)
 

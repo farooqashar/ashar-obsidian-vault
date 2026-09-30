@@ -7,6 +7,8 @@ created: 2026-09-21
 description: "A standardized way to give AI agents new capabilities and expertise."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "coding-agents"
 ---
 ## What are Agent Skills?
 

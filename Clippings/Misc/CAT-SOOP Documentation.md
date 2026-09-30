@@ -7,6 +7,7 @@ created: 2026-09-21
 description:
 tags:
   - "clippings"
+  - "mit-courses"
 ---
 ## About CAT-SOOP
 

@@ -8,6 +8,8 @@ created: 2026-09-26
 description: "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized."
 tags:
   - "clippings"
+  - "devops-practice"
+  - "coding-agents"
 ---
 ![Animated vertical lines accelerating and converging from left to right on a dark background](https://webassets.linear.app/images/ornj730p/production/ecfd20aa38173e85e7abd6202c318a7b079beba9-3904x1600.png?q=95&auto=format&dpr=2)
 

@@ -8,6 +8,7 @@ created: 2026-07-03
 description: "Alt title: The reports of tokenmaxxing’s death are greatly exaggerated."
 tags:
   - "clippings"
+  - "essays"
 ---
 *I’ll be in SF for AIE. If you are around and want to say hi / meet in person, shoot me an email at amol@noriagentic.com.*
 

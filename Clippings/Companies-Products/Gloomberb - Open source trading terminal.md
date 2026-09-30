@@ -7,6 +7,7 @@ created: 2026-08-14
 description: "Open source stock portfolio manager & trading terminal"
 tags:
   - "clippings"
+  - "saas-products"
 ---
 [See what's new in 0.10.4](https://gloom.sh/changelog)
 ```

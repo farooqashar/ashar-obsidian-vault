@@ -8,6 +8,9 @@ created: 2026-09-21
 description: "Papaya pricing scales with the agents you monitor and the traces you send — never per seat. Start free, upgrade for automated PR creation and team workflows."
 tags:
   - "clippings"
+  - "observability"
+  - "agent-infra"
+  - "saas-products"
 ---
 ## Simple pricing for agents that keep getting better.
 

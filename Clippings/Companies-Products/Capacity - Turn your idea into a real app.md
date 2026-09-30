@@ -8,6 +8,8 @@ created: 2026-08-07
 description: "Describe your idea in plain words. Capacity asks the right questions, builds your app, and puts it online: accounts, payments, your own domain. Start free."
 tags:
   - "clippings"
+  - "saas-products"
+  - "coding-agents"
 ---
 - [
 	Capacity

@@ -7,6 +7,8 @@ created: 2026-09-23
 description: "Declare an agentic task in YAML. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "containers"
 ---
 ```
 $ cat task.yaml

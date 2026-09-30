@@ -7,6 +7,7 @@ created: 2026-09-22
 description: "Cap is the free, open source screen recorder for Mac, Windows, and Linux. Record, edit, take screenshots, and share videos with a link."
 tags:
   - "clippings"
+  - "saas-products"
 ---
 Cap has 3 modes
 

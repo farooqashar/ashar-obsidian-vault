@@ -7,6 +7,7 @@ created: 2026-08-05
 description: "Hubble.md"
 tags:
   - "clippings"
+  - "saas-products"
 ---
 ## The best notepad for you and your agents
 

@@ -7,6 +7,8 @@ created: 2026-09-26
 description: "Nobodywho runs AI models on your devices and servers. Open-source SDKs for Python, Kotlin, Swift, Flutter, React Native and Godot."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "agent-infra"
 ---
 ## Local AI No token costs Data kept private Runs offline Built in EU
 

@@ -7,6 +7,8 @@ created: 2026-07-22
 description: "Duckbill combines AI + trained humans to execute real-world tasks — phone calls, scheduling, refunds, follow-ups, logistics. Not reminders. Not dashboards. Execution."
 tags:
   - "clippings"
+  - "saas-products"
+  - "startups"
 ---
 16+ million real world interactions handled
 

@@ -8,6 +8,8 @@ created: 2026-09-21
 description: "Find the warmest chain of intros from you to anyone on X. NepoNet explains every step and drafts the first ask. Free to start."
 tags:
   - "clippings"
+  - "saas-products"
+  - "startups"
 ---
 ## Everything great starts with a friend of a friend of a friend.
 

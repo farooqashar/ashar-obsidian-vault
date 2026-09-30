@@ -7,6 +7,8 @@ created: 2026-09-26
 description: "OpenSpec helps teams and coding agents create, refine, and manage living specifications."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "agent-infra"
 ---
 ## Synopsis
 

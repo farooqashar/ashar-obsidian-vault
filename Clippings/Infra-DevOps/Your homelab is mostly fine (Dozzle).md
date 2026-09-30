@@ -7,6 +7,8 @@ created: 2026-08-13
 description:
 tags:
   - "clippings"
+  - "containers"
+  - "observability"
 ---
 Dozzle Cloud watches your containers and only tells you when something actually broke, sending ~40% fewer notifications on average.
 

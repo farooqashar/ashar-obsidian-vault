@@ -7,6 +7,7 @@ created: 2026-09-21
 description:
 tags:
   - "clippings"
+  - "mit-courses"
 ---
 ## Welcome to Electronics FIRST![MIT 6.2030 Course Information](https://web.mit.edu/pmagic/www/page/course-information.html)
 

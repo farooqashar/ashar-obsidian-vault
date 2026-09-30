@@ -7,6 +7,8 @@ created: 2026-09-26
 description: "Codiv serves open System One models: typed answers with calibrated confidence in milliseconds. Jev-compatible API. Start free with OpenJev and 100M input tokens."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "agent-infra"
 ---
 ![Codiv](https://codiv.ai/icons/codiv-icon-animated.svg) [LiveOpenJev 0.1Free public experiment](https://codiv.ai/docs/models)
 

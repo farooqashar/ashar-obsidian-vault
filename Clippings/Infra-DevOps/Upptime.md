@@ -7,6 +7,8 @@ created: 2026-09-18
 description:
 tags:
   - "clippings"
+  - "observability"
+  - "devops-practice"
 ---
 <iframe src="https://demo.upptime.js.org/"></iframe>![Monitor uptime every 5 minutes](https://upptime.js.org/img/DancingDoodle.svg)
 

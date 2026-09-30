@@ -7,6 +7,7 @@ created: 2026-08-09
 description: "We pay $300/month to record your screen for AI research."
 tags:
   - "clippings"
+  - "fun"
 ---
 ## Get paid to record your work.
 

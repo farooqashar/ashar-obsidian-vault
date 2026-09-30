@@ -8,6 +8,7 @@ created: 2026-07-25
 description: "Latency Numbers Every Programmer Should Know. GitHub Gist: instantly share code, notes, and snippets."
 tags:
   - "clippings"
+  - "devops-practice"
 ---
 ```
 Latency Comparison Numbers (~2012)

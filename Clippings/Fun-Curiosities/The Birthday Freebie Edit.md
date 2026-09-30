@@ -7,6 +7,8 @@ created: 2026-09-23
 description: "Discover, plan, and redeem every birthday reward beautifully."
 tags:
   - "clippings"
+  - "fun"
+  - "food-drink"
 ---
 ## Your most rewardingbirthday season yet.
 

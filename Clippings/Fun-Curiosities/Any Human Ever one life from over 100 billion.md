@@ -7,6 +7,7 @@ created: 2026-09-10
 description: "Draw one random life from the more than 100 billion humans who have ever lived. Every detail sourced."
 tags:
   - "clippings"
+  - "fun"
 ---
 Over 100,000,000,000 people have ever lived.
 

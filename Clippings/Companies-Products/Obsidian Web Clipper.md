@@ -7,6 +7,8 @@ created: 2026-04-08
 description: "Highlight and capture web pages in your favorite browser. Save anything and everything with just one click."
 tags:
   - "clippings"
+  - "saas-products"
+  - "personal-sites"
 ---
 ## Save the web.
 

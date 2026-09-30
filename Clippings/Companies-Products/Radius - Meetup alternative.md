@@ -7,6 +7,8 @@ created: 2026-09-26
 description: "Radius is a modern Meetup alternative for local groups, events and activities. Find people with shared interests, join what they are doing nearby, or start your own community."
 tags:
   - "clippings"
+  - "saas-products"
+  - "startups"
 ---
 ![Community meetup](https://radius.to/assets/home/bg-image-coffee-6685e8ce633c67431770e5a728f3026c80c6f7fa7db34d02cabc8dcdd4b9d05f.webp)
 

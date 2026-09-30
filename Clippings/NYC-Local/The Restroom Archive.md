@@ -7,4 +7,5 @@ created: 2026-09-10
 description: "The Restroom Archive is an ongoing repository of publicly accessible restrooms."
 tags:
   - "clippings"
+  - "nyc"
 ---

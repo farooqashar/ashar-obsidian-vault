@@ -7,6 +7,8 @@ created: 2026-09-26
 description: "A free platform for building simple, fully responsive one-page sites for pretty much anything."
 tags:
   - "clippings"
+  - "saas-products"
+  - "personal-sites"
 ---
 - ## [Log In](https://carrd.com/login)
 	Log in to an existing account

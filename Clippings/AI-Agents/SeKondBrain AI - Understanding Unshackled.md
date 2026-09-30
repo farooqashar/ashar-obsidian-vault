@@ -7,6 +7,8 @@ created: 2026-08-08
 description: "SeKondBrain is a neurosymbolic Cognitive OS that turns scattered files, emails and chats into a living concept graph, giving people and teams a cognitive partner that cuts hours of search into minutes."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "startups"
 ---
 ![a blurry image of a plane flying in the sky](https://framerusercontent.com/images/XoMjwzOH7MA8ND7PEvH6a16oKW0.png?width=1040&height=1440)
 

@@ -8,6 +8,8 @@ created: 2026-09-23
 description: "Give your AI agents access to 80+ data providers and specialized indexes through one API, MCP, or CLI. Find tools, check their contracts, and get structured data."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "scraping-data"
 ---
 ## The knowledge libraryfor superintelligence.
 
