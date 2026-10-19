@@ -7,6 +7,8 @@ created: 2026-10-02
 description: "Build powerful trading agents with market data, specialized tools, and your choice of model—all in Robinhood."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 Choose your model, set your controls, and get up and running in just a few taps—all in Robinhood.
 

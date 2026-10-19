@@ -7,6 +7,8 @@ created: 2026-10-01
 description: "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "coding-agents"
 ---
 DevDay 2026 is our biggest yet, with more than 20 major announcements across ChatGPT, Codex, our models, and entirely new forms of working with AI.
 

@@ -7,6 +7,8 @@ created: 2026-09-30
 description: "TinyFish provides enterprise infrastructure for AI web agents. Run hundreds of websites simultaneously to navigate, authenticate, extract data, and automate web workflows with a fully serverless architecture."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "scraping-data"
 ---
 Search and Fetch APIs free on every plan.[Get started →](https://agent.tinyfish.ai/sign-up?source=mcp_setup_banner)
 

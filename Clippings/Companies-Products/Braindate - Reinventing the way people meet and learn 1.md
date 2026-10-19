@@ -8,6 +8,8 @@ created: 2026-09-30
 description: "Braindate offers a unique way for people to learn from each other and form valuable connections based on topics of interest."
 tags:
   - "clippings"
+  - "saas-products"
+  - "startups"
 ---
 ## Networking is broken. We fixed it.
 

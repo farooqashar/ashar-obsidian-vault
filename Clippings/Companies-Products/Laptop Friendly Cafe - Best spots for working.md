@@ -7,6 +7,8 @@ created: 2026-09-30
 description: "Discover laptop friendly cafes near you with free Wi-Fi and power outlets. Perfect for digital nomads and students seeking productive workspaces"
 tags:
   - "clippings"
+  - "saas-products"
+  - "food-drink"
 ---
 ## Laptop friendly cafes from around the world!
 

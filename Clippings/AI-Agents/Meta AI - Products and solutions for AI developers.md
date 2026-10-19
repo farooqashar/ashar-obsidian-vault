@@ -7,6 +7,8 @@ created: 2026-09-29
 description: "Build with Meta's AI models and tools. Access Muse Spark through Muse Code and Meta Model API with resources to get started."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "coding-agents"
 ---
 ## Your next build starts with Muse.
 

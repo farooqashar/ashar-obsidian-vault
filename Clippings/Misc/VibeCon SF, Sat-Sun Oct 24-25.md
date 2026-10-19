@@ -7,6 +7,7 @@ created: 2026-10-16
 description: "VibeCon SF, Sat-Sun Oct 24-25. Two days building a product with 200 people. Hosted by Emergent, powered by MongoDB. Grand prize: a direct Y Combinator interview + $10,000. Applications close Thu Oct 15."
 tags:
   - "clippings"
+  - "startups"
 ---
 ## What's In It For You?
 

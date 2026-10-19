@@ -7,6 +7,7 @@ created: 2026-10-17
 description: "SUNY and CUNY Reconnect offer free tuition, fees, books, and supplies at community colleges for New York residents ages 25–55."
 tags:
   - "clippings"
+  - "nyc"
 ---
 Looking to earn your associate degree? The CUNY and SUNY Reconnect programs can help.
 
