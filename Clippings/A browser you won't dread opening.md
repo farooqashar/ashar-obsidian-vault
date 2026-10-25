@@ -1,0 +1,59 @@
+---
+title: "A browser you won't dread opening"
+source: "https://www.diabrowser.com/?ref=producthunt"
+author:
+published:
+created: 2026-10-25
+description: "Dia is the browser for better days at work. Get answers without having to ask, produce beautiful ready-to-share outputs, and stay focused in the best browser for your work day."
+tags:
+  - "clippings"
+---
+Available for macOS and Windows
+
+Built for how you actually work
+
+Profiles
+
+### Create clean lines between work, freelance, and personal life, with separate tabs, logins, and AI. Context switch between them in just a swipe.
+
+![Dia Browser](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACjElEQVR4nF2SWY8jNRSF6yci8UdBiIfhAZiBadFJmk46qVRqdW122S7btSWDaKZ9kF0ZpOHh05Ut33OX40Bt3/1Dn3627PARPNxAFGdoQTEoAS05lFjRUmBUPWajsRiFZTBYjLbXaXhblmkeBv09ofyboN7+YsPn93gKP2IXb/FMTjizEqXs0coBjTSohUbFNWqu0QgD2g9gagJTI9p+tKUYXpNO50emvguK/cZuj3/g/WWLD/kev1UnbChB1Ckk1CBhBrmYkYvlHmeQ/opS3Ty5XJB0k03l8nemr1NQhXvso2c8pkdsygi7NsGha/FSMTzsYzwcYhxyhrCUnkurUUgn+MlD5NWfSX+zhbraoLu8ILwcsE1DbIoIT3WKE6M4kBa/Ph7w0+87fNiFeNhffIE/LxXi1iDjkyfn966dcL/YQKQhzukJWxJhUyfYtRmOHUVEezwnNR5PObZhgd2ZePZJg3MpENU9zrVE1PSI6bqWVZDEiCs3JsFB1njpG5x7jlQM/mFUq6/GdXdut07oRDjOlUTCRhRyAXEjyzpDzggi1SIyzBNribyfvBEpG31iWApkfDXEjZewAceC+4L5ukMQtdhAtqUlvEZiGJKBezKjUCiXfEPWTTgWne/QFVjNuPn9ObGYDl9MAXEja8HeKkltPnDko/QUxrhq/qFbujPBdVSIL4k3L+6KZXxeBb3zVxsY3V9bJV7LQdpqVHCUxlWd/W7SbkQhlrvQp//FGwq5RocX7Hv+Y6MEoZN+pbOx7WzQjE5k9E46I/77Fl+x3O8WFM5hPtpSTp+DhjXf1j3/QVynWd6mt24eLZ0mEDkidl+ikUipRsoM0m5Y453MnalC0gibNeKt5OqvfwFoP7UqQjyqLwAAAABJRU5ErkJggg==)
+
+Live Work
+
+### Dia pulls together the places where work is actually happening (like GitHub and Notion) in your tab bar. Click once and land directly in the right PR, spec, or draft.
+
+Decks
+
+### Ask Dia for a deck and your scattered context becomes real slides — headers, layout, and flow you can present without a redesign.
+
+![Dia Browser](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZElEQVQ4jZWTTU7bQBTHfQjWVQ/APtuWXSuVsqi66AYhuA0HaO/QHICkgkpdQMuCBKGghBrnw3ESMrbHM+P58tjzqjERICSkdKSf5tnz9H9fM16a3r6az4dvhsPhzt/hZGc8Hn+MomgnWS4/pwv05S4MP0Xu33j8MV0stglC22nqWLj9gwMhtI0wfosxfu3NwvBdFE2+zmaz9t0StZMkbRNCfjDGfjFKT2lGflKM24yQFqe0JThvCc5aXNCWEPyIMXaE07QVp/jbMlm+96aT6V4URb/n84XEGRF5nsvVKqSQRkqplZTSoZUShdZCKSkdurYV55wLxvI/cRzvecv5fD+Ok4skzSxlecW5sFprWxTFA8aYmmK1P7Mr5y+lvMAY73tJkhxwzjtSKhBCWCEkGGPAWgtVVb2Ahao+t+7bGlOClKpTC1JKD4qi6JRlCVoXVikNznainHMghDxCKWRMAOYlYAHAFEBRgnX+SqmOS64WNMZ0XGRXntb3gkIImE6ncHNzA4PBAPoren4IV6GEq5mFIKlF1xNUSgFCCMIwhNFoBMFwCLdBAP4oAn8hIIgtzAgA14+CDyU/FXRCzsH10JXtAkgp64xdC7gQIJQBaSzoEqCsnmWIMX7SQ10LPh3Ki8OxDrsainFBHwT3KaUXjDHLOa+klPV1KMtyXapVZffXxvf93V6vd3p9fZ1PJhPGGMuLovgfmFLKvYZTQsiu1+12t05OTg6Pj4+bl5eXTYRQUwixNnmef8+yrJll2SFCaMvr9/sb5+fnm2dnZ41ut9sIgqARhuHaOP/BYNDwfX8ziqKNf9ko8gv31p+UAAAAAElFTkSuQmCC)
+
+![Dia Browser](data:image/png;base64,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)
+
+Privacy first
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+Block trackersOn Personalize new chatsOff MemoryOn Block adsOn Share content dataOff
+
+with you in control
+
+You control whether Dia remembers your preferences and which tools connect to your workflow. Your data is never sold or used to build ad profiles — and with Sync, it's end-to-end encrypted.
+
+Dia for Work adds the guardrails that your team needs, like SSO and admin tools, so your team can stay secure.
