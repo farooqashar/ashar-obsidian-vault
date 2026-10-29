@@ -7,6 +7,8 @@ created: 2026-10-25
 description: "Dia is the browser for better days at work. Get answers without having to ask, produce beautiful ready-to-share outputs, and stay focused in the best browser for your work day."
 tags:
   - "clippings"
+  - "saas-products"
+  - "startups"
 ---
 Available for macOS and Windows
 

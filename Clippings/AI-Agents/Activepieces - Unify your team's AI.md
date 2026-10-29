@@ -7,6 +7,8 @@ created: 2026-10-19
 description: "Chat, agents, flows, tables, and 760+ apps in one workspace, so your whole team works with AI in the tools they already use. Open source at the core."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 ![Funding Societies](https://www.activepieces.com/logos/customers/funding-societies.webp)
 

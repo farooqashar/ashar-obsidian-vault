@@ -8,6 +8,8 @@ created: 2026-10-23
 description: "Frontier, open-source, and partner models in one place. Sign in to Microsoft Foundry to deploy a model and start building."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "agent-infra"
 ---
 95 models
 

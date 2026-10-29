@@ -7,6 +7,8 @@ created: 2026-10-21
 description: "Microsoft Power Apps is a low-code app builder that lets you create custom business apps to streamline processes and boost productivity over your organization."
 tags:
   - "clippings"
+  - "saas-products"
+  - "web-frameworks"
 ---
 Discover new features coming to Power Platform and Copilot Studio in our online update event.
 

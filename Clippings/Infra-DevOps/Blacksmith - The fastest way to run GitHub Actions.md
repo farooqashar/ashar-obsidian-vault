@@ -7,6 +7,9 @@ created: 2026-10-25
 description: "Speed up your GitHub actions with Blacksmith. Run CI/CD 2x faster, download caches 4x faster, build Docker images 40x faster, and eliminate queue times. Start free today."
 tags:
   - "clippings"
+  - "devops-practice"
+  - "git-forge"
+  - "containers"
 ---
 Announcing our Series C led by Sequoia at a $1B valuation. [Read more](https://www.blacksmith.sh/blog/series-c)
 

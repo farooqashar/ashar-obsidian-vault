@@ -7,6 +7,8 @@ created: 2026-10-21
 description: "Deliver value and employee satisfaction with our tools for Microsoft 365 Copilot Chat, Microsoft 365 Copilot, and agent deployment and adoption."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 ## Not sure where to start? Download everything you need to get started.
 

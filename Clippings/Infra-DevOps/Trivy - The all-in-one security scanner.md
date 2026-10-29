@@ -7,6 +7,9 @@ created: 2026-10-22
 description: "Trivy is the most popular open source security scanner for Vulnerability &, IaC, SBOM discovery, cloud scanning and Kubernetes security"
 tags:
   - "clippings"
+  - "containers"
+  - "kubernetes"
+  - "devops-practice"
 ---
 ## Use Trivy to find vulnerabilities (CVE) & misconfigurations (IaC) across code repositories, binary artifacts, container images, and Kubernetes clusters.
 

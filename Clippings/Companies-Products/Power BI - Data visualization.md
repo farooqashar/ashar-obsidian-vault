@@ -7,6 +7,7 @@ created: 2026-10-21
 description: "Microsoft Power BI is a business intelligence platform that helps you visualize data and infuse insights into your existing Microsoft 365 apps. Try it for free."
 tags:
   - "clippings"
+  - "saas-products"
 ---
 ## Independent research and news
 

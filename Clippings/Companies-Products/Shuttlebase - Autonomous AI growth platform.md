@@ -7,6 +7,8 @@ created: 2026-10-19
 description: "Shuttlebase is an autonomous AI platform trained on millions of real data points. It finds where your store is losing sales, tests the fix, and ships what works."
 tags:
   - "clippings"
+  - "saas-products"
+  - "startups"
 ---
 ## Growth,not guesswork
 

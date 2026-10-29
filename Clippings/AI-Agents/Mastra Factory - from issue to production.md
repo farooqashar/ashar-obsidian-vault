@@ -7,6 +7,8 @@ created: 2026-10-19
 description: "Mastra Factory is an open source, agent-powered software delivery environment. Persistent coding agents, repository workspaces, issue intake, planning, implementation and pull request review, in a web application you control."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "agent-infra"
 ---
 Start building with a free account, or explore our pricing for more
 

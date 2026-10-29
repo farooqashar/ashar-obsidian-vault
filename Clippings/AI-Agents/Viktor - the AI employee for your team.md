@@ -7,6 +7,9 @@ created: 2026-10-19
 description: "Viktor is the AI employee that lives in Slack and Microsoft Teams, connects to 9,800+ tools, and does the work. Reports, dashboards, code, campaigns. Start free."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
+  - "startups"
 ---
 ## A workspace where people and AI employees do the work together.
 

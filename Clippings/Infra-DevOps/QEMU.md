@@ -7,6 +7,8 @@ created: 2026-10-23
 description:
 tags:
   - "clippings"
+  - "containers"
+  - "devops-practice"
 ---
 [![Screenshot: QEMU running the ReactOS operating system on Linux.](https://www.qemu.org/screenshots/800px-Qemu_linux.png)](https://www.qemu.org/screenshots/800px-Qemu_linux.png "QEMU running the ReactOS operating system on Linux.")
 

@@ -7,6 +7,8 @@ created: 2026-10-25
 description: "A social network for developers. Sign in with GitHub. Commit messages to the log. Talk with other devs."
 tags:
   - "clippings"
+  - "fun"
+  - "personal-sites"
 ---
 [Joe Woods](https://dev-null.sh/@tjwds) [@tjwds](https://dev-null.sh/@tjwds) [b3d1b20](https://dev-null.sh/@tjwds/commits/01a173c6-44f5-7346-8979-419e1b3d1b20 "Commit 01a173c6-44f5-7346-8979-419e1b3d1b20")
 

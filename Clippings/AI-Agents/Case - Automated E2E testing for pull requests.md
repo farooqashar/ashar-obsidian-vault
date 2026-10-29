@@ -7,6 +7,8 @@ created: 2026-10-19
 description: "Your AI QA agent tests each pull request end to end and reports bugs, verdicts, and supporting evidence on GitHub."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "devops-practice"
 ---
 ## Automated E2E testing.For every pull request.
 

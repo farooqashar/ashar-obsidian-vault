@@ -7,6 +7,8 @@ created: 2026-10-19
 description: "Yjs is a library for building collaborative multi-user applications."
 tags:
   - "clippings"
+  - "web-frameworks"
+  - "networking"
 ---
 You are live.
 

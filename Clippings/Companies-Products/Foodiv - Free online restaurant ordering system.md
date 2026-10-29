@@ -7,6 +7,8 @@ created: 2026-10-17
 description: "All in one digital ordering system for restaurants and hotel in room dining. Boost sales, speed service, and improve guest experience."
 tags:
   - "clippings"
+  - "saas-products"
+  - "food-drink"
 ---
 [![Video Demo](https://www.foodiv.com/wp-content/themes/foodiv/img/video_demo.png)](https://www.youtube.com/playlist?list=PLyP0o0Kkoij-scSDQRaqRE3350haIk2gW)
 

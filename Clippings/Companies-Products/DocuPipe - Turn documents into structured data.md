@@ -7,6 +7,8 @@ created: 2026-10-21
 description: "Define the fields you need. DocuPipe extracts schema-shaped data from PDFs, scans, images, spreadsheets, text, and JSON through the dashboard, REST API, and webhooks."
 tags:
   - "clippings"
+  - "saas-products"
+  - "scraping-data"
 ---
 ## Consistent data from documents that never look the same.
 

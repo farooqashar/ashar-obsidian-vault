@@ -7,6 +7,8 @@ created: 2026-10-27
 description: "Unsloth is an open-source, no-code deskop UI for training and running open models on your local hardware."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "agent-infra"
 ---
 01
 

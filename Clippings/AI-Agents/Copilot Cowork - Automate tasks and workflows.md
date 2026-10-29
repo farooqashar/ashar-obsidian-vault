@@ -7,6 +7,8 @@ created: 2026-10-21
 description: "Describe the outcome you want. Cowork grounds the work in your emails, meetings, files, and business data—powered by Work IQ—then completes drafts for review."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 ![accordion background image](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3952383-bg-how-it-works?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1240&qlt=100&fit=constrain)
 
