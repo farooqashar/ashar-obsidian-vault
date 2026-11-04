@@ -7,6 +7,9 @@ created: 2026-10-30
 description: "Every software product that has been discontinued, how long products live before they shut down, and the best alternatives to replace them."
 tags:
   - "clippings"
+  - "fun"
+  - "startups"
+  - "saas-products"
 ---
 ## Notable shutdowns
 

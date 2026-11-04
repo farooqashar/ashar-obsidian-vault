@@ -7,6 +7,9 @@ created: 2026-10-29
 description: "Daily is the team behind Pipecat. Ultra low latency, open source SDKs, and enterprise reliability since 2016."
 tags:
   - "clippings"
+  - "saas-products"
+  - "networking"
+  - "agent-infra"
 ---
 [We're excited to share Daily is joining Deepgram. Read Kwin's post.](https://www.daily.co/blog/deepgram-is-acquiring-daily-and-establishing-an-independent-pipecat-foundation/)
 

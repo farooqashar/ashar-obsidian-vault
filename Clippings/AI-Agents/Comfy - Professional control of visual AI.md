@@ -7,6 +7,8 @@ created: 2026-10-29
 description: "Comfy is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "saas-products"
 ---
 ## Professional Controlof Visual AI
 

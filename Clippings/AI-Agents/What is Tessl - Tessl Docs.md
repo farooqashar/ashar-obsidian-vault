@@ -7,6 +7,8 @@ created: 2026-11-02
 description: "The core components of the Tessl platform, the agentic-development problems they solve, and why teams choose Tessl."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "agent-infra"
 ---
 **Takeaways**
 

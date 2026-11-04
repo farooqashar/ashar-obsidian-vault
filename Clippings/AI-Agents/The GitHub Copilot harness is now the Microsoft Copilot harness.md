@@ -8,6 +8,8 @@ created: 2026-10-29
 description: "Learn how the Microsoft Copilot harness helps Copilot Studio makers build more capable, reliable agents with advanced reasoning, tool use, and orchestration."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "agent-infra"
 ---
 Microsoft is [extending a shared foundational harness](https://aka.ms/copilot-harness/announce) across Copilot experiences, bringing powerful advances in agentic reasoning, tool use, and agent orchestration to products across Microsoft. [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio/) makers are already building with this technology through what was previously called the GitHub Copilot harness. Now, to reflect its broader role across Microsoft, we’re updating the name to the **Microsoft Copilot harness**.
 

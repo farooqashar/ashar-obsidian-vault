@@ -7,6 +7,9 @@ created: 2026-10-30
 description: "LocalStack creates secure cloud development and testing sandbox environments so AI agents, software developers, and CI/CD pipelines can build, test, and validate applications before they touch the cloud."
 tags:
   - "clippings"
+  - "aws"
+  - "containers"
+  - "devops-practice"
 ---
 ## The cloud wasn't built for modern software development.
 

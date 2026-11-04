@@ -7,6 +7,8 @@ created: 2026-10-30
 description: "Search 3M+ tech jobs indexed straight from company career boards — deduplicated and tagged by stack, seniority and location. Free, open source, no walls."
 tags:
   - "clippings"
+  - "saas-products"
+  - "scraping-data"
 ---
 ## Every tech job, straight from the source.
 

@@ -7,6 +7,8 @@ created: 2026-10-30
 description: "Wikipedia, but only for things a half hour walk from you."
 tags:
   - "clippings"
+  - "fun"
+  - "personal-sites"
 ---
 ## Main Page
 

@@ -7,6 +7,8 @@ created: 2026-10-29
 description: "Build AI agents with Microsoft Copilot Studio. Enhance your workflows with powerful AI bots and seamless Microsoft Copilot integrations."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/HeroBanner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=580&qlt=100&fmt=png-alpha&fit=constrain)
 

@@ -7,6 +7,8 @@ created: 2026-10-30
 description: "Die ganze Schweiz im Massstab 1:1 als Minecraft-Welt, aus den offenen Geodaten von swisstopo. Ein Block ist ein Meter."
 tags:
   - "clippings"
+  - "fun"
+  - "personal-sites"
 ---
 ![The Matterhorn at first light, seen from the Gornergrat, in Minecraft](https://blocks.manifold3d.ch/bilder/held.jpg)
 

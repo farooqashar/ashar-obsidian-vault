@@ -8,6 +8,9 @@ created: 2026-10-29
 description: "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "git-forge"
+  - "agent-infra"
 ---
 Our jobs as developers are changing. In a couple of years, we’ve gone from writing every line of code to working with AI assistants to orchestrating fleets of agents. But the goal hasn’t changed: ship completed software work. A feature, a bug fix, a security fix. Completed work, not more code, is the output that matters.
 

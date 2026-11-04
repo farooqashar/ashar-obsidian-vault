@@ -8,6 +8,8 @@ created: 2026-10-30
 description: "Sim is the open-source AI workspace where companies build, distribute, and govern AI agents. 270+ integrations, every major LLM, permission groups, spend limits, and self-hosting."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 ## Build and governevery AI agent in one place
 

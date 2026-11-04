@@ -7,6 +7,8 @@ created: 2026-10-30
 description: "Every classic WordArt style, shape and 3-D effect, in your browser."
 tags:
   - "clippings"
+  - "fun"
+  - "personal-sites"
 ---
 Click or use the bracket keys to choose a layer. Arrow keys move it, comma and full stop rotate it, minus and plus resize it, Delete removes it. Press question mark for all keyboard shortcuts.
 

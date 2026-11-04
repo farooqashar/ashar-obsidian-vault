@@ -7,6 +7,8 @@ created: 2026-10-30
 description: "Requests, Please: a mobile-first WAF simulator. Inspect HTTP requests, decode payloads, block the hackers, let the customers through."
 tags:
   - "clippings"
+  - "fun"
+  - "networking"
 ---
 root@edge-node-7:~$./waf --mode=human
 
