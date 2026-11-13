@@ -7,6 +7,8 @@ created: 2026-11-04
 description: "Connecticut Pizza & Brew Fest will debut in Connecticut at the Hartford HealthCare Amphitheater in Bridgeport."
 tags:
   - "clippings"
+  - "nyc"
+  - "food-drink"
 ---
 ![](https://images.squarespace-cdn.com/content/v1/6994ba155b823912be1cd17b/3217a69a-a7d2-4f92-9117-8a959b8b8009/PotatoFest.png?format=2500w)
 

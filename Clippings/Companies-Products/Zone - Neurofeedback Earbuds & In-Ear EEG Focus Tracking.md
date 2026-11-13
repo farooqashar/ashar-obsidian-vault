@@ -7,6 +7,8 @@ created: 2026-11-04
 description: "Zone (z·ne): neurofeedback earbuds with in-ear EEG sensors for real-time focus and cognitive-load tracking. Join early access and own your focus."
 tags:
   - "clippings"
+  - "startups"
+  - "saas-products"
 ---
 ![Zone hero background](https://wear.zone/images/hero-silhouette-mobile.webp)
 

@@ -7,6 +7,8 @@ created: 2026-11-04
 description: "A public, plain-language record of how the New York Court of Appeals and each of its judges have ruled, sorted by the issues that shape life in this state."
 tags:
   - "clippings"
+  - "nyc"
+  - "scraping-data"
 ---
 - Housing & Landlord-Tenant
 - Voting, Elections & Democracy

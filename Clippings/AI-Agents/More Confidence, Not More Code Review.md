@@ -7,6 +7,8 @@ created: 2026-11-11
 description: "Turn AGENTS.md and skills into automated validation checks. Code Telemetry’s Grader evaluates recorded evidence before your AI-generated pull requests merge."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "devops-practice"
 ---
 ![I Am Devloper’s code review meme: 10 lines of code = 10 issues; 500 lines of code = looks fine.](https://cdn.sanity.io/images/ttn9kqd2/production/b954a4713525c2c896bc7f38ae655a78a2fa9f5f-560x450.png?w=1520&auto=format)
 

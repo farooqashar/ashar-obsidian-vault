@@ -7,6 +7,8 @@ created: 2026-11-04
 description: "The fastest path from prompt to production with Gemini"
 tags:
   - "clippings"
+  - "llm-providers"
+  - "agent-infra"
 ---
 ### One API call to fully managed agent
 

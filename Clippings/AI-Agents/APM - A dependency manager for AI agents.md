@@ -7,6 +7,8 @@ created: 2026-11-04
 description: "A dependency manager for AI agents. Declare the skills, prompts, instructions, plugins, and MCP servers your project needs in one apm.yml."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "coding-agents"
 ---
 ## Agent Package Manager
 
