@@ -1,0 +1,57 @@
+# Keeps the "ask my notes" search index in MongoDB Atlas in sync with the vault.
+#
+# Every time obsidian-git pushes a change to a note, this runs
+# .github/scripts/ingest_notes.py, which upserts changed chunks into Atlas and
+# removes chunks for deleted notes. Atlas Automated Embedding (voyage-4) then
+# embeds the new text by itself. The ask_notes tool in
+# github.com/farooqashar/ashar-mcp searches it.
+#
+# Needs a repository secret: MONGODB_URI (the Atlas connection string).
+# Until that secret exists, the job skips instead of failing.
+name: Sync notes search
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.md"
+      - ".github/scripts/ingest_notes.py"
+      - ".github/workflows/sync-notes-search.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: notes-search
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      MONGODB_URI: ${{ secrets.MONGODB_URI }}
+    steps:
+      - name: Check for MONGODB_URI
+        id: check
+        run: |
+          if [ -z "$MONGODB_URI" ]; then
+            echo "::notice::MONGODB_URI secret not set; skipping notes search sync."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.check.outputs.ready == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.ready == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Sync notes to Atlas
+        if: steps.check.outputs.ready == 'true'
+        run: |
+          pip install "pymongo>=4.20,<5"
+          python .github/scripts/ingest_notes.py
