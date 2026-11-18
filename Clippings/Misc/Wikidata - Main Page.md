@@ -7,6 +7,8 @@ created: 2026-11-15
 description:
 tags:
   - "clippings"
+  - "databases"
+  - "scraping-data"
 ---
 Welcome!
 

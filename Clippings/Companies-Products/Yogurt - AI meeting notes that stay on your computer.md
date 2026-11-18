@@ -7,6 +7,8 @@ created: 2026-11-13
 description: "Yogurt takes meeting notes with AI that runs locally on Mac, Windows and Linux. No bot joins the call. Free and open source."
 tags:
   - "clippings"
+  - "saas-products"
+  - "privacy"
 ---
 ## How Yogurt works.
 

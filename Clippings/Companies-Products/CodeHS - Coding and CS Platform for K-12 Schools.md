@@ -7,6 +7,7 @@ created: 2026-11-14
 description: "CodeHS is the comprehensive K-12 platform for computer science, AI, and digital literacy — free curriculum, IDE, grading tools, and professional development for schools and districts nationwide."
 tags:
   - "clippings"
+  - "saas-products"
 ---
 ## Everything You Need, All In One Spot
 

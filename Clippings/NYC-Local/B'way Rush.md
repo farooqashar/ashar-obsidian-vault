@@ -7,6 +7,7 @@ created: 2026-11-14
 description: "The most complete and updated listing of rush, lottery and other discount programs for Broadway shows."
 tags:
   - "clippings"
+  - "nyc"
 ---
 Cookie Preferences
 

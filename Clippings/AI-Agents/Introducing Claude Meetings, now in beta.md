@@ -7,6 +7,8 @@ created: 2026-11-15
 description: "Add Claude to your video calls to take notes, answer questions, and build docs and whiteboards while your team talks."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "agent-infra"
 ---
 Claude can now join your video calls as a visible participant, follow the conversation and start on work during the meeting. Claude Meetings is now in beta.
 

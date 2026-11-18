@@ -8,6 +8,8 @@ created: 2026-11-13
 description: "Code mode lets agents write code that calls tools. How it works, when it helps and where it fits alongside agents that call tools directly."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "agent-infra"
 ---
 Nobody should be on-call.
 

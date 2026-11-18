@@ -7,6 +7,8 @@ created: 2026-11-13
 description: "Log in to Wingman, the AI personal assistant that helps automate scheduling, inbox management, reminders, follow-ups, and daily tasks."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 ![](https://getwingman.com/landing/wingman/emo-flying-static.png?v=1.2.94)
 

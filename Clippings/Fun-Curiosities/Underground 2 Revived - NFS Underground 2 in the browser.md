@@ -7,6 +7,7 @@ created: 2026-11-13
 description: "Play Need for Speed: Underground 2 (2004) in Chrome and Firefox with WebGPU graphics, Web Audio, up to 120 fps widescreen, controller support, free roam and Online races with friends. Fan project, not affiliated with Electronic Arts."
 tags:
   - "clippings"
+  - "fun"
 ---
 Ready
 

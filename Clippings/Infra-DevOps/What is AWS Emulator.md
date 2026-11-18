@@ -7,6 +7,8 @@ created: 2026-11-13
 description: "AWS Emulator is a local emulator of the AWS APIs that you can use to test your software on your own machine, without deploying on AWS."
 tags:
   - "clippings"
+  - "aws"
+  - "devops-practice"
 ---
 What is AWS Emulator? - AWS Emulator
 

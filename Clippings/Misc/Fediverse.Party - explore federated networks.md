@@ -8,6 +8,8 @@ created: 2026-11-14
 description: "Let's make social media free, federated and fun! Fediverse.Party is your guide into the world of decentralized, autonomous networks running on free open software on a myriad of servers across the world. No ads and no algorithms. Join Fediverse and become part of the new interconnected Web!"
 tags:
   - "clippings"
+  - "privacy"
+  - "personal-sites"
 ---
 [![](https://fediverse.party/img/friendica.png) Friendica](https://fediverse.party/en/friendica)
 

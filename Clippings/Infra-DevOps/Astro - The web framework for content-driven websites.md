@@ -7,6 +7,8 @@ created: 2026-11-14
 description: "Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in-between."
 tags:
   - "clippings"
+  - "web-frameworks"
+  - "personal-sites"
 ---
 Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more.
 

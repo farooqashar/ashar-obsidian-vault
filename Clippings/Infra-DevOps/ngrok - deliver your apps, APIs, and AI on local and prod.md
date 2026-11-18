@@ -8,6 +8,8 @@ created: 2026-11-13
 description: "ngrok is developer infrastructure that routes and secures traffic to your apps, APIs, and AI models, wherever they run. Start on localhost, ship to prod."
 tags:
   - "clippings"
+  - "networking"
+  - "devops-practice"
 ---
 ## Connect anything,anywhere.
 

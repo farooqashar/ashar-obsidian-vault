@@ -8,6 +8,8 @@ created: 2026-11-14
 description: "Introduce explicit execution boundaries into an AI agent loop, allowing the agent to evaluate each instruction before execution and determine how the loop should advance."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "coding-agents"
 ---
 A behavioral design pattern for evaluating each instruction before an agent loop advances.
 

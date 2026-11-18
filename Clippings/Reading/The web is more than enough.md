@@ -8,6 +8,8 @@ created: 2026-11-13
 description: "Web browsers enable incredibly rich app development—and in the current environment, that’s radically easier than it used to be."
 tags:
   - "clippings"
+  - "essays"
+  - "web-frameworks"
 ---
 Last week was fun. We launched [tinylittleoffice.com](http://tinylittleoffice.com/) —you heard it here first!—and it turned out that lots of folks were in the market for an “office suite that stores data in the URL.”
 

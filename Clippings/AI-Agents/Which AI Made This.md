@@ -7,6 +7,8 @@ created: 2026-11-13
 description: "Compare AI-generated UIs from the same prompt across models, with and without a frontend design skill."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "coding-agents"
 ---
 ## With Design Skill
 

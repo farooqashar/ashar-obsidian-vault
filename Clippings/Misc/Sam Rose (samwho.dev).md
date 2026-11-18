@@ -7,6 +7,8 @@ created: 2026-11-13
 description: "I write visual and interactive guides to programming topics."
 tags:
   - "clippings"
+  - "personal-sites"
+  - "essays"
 ---
 Husband, dad, programmer, whisky-drinker, writer. I love video games, lie-ins, cold weather, and being indoors. I buy more books than I read, I'm scared of spiders and wasps, and I put ice in my whisky.
 

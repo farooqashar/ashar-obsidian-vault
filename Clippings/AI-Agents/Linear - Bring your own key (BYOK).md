@@ -7,6 +7,8 @@ created: 2026-11-13
 description: "Linear changelog - New updates and improvements to Linear."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "saas-products"
 ---
 ![Abstracted cards with API key representations for Anthropic and Open AI](https://webassets.linear.app/images/ornj730p/production/542dbd0a6dcfe0bba19da26b38da4e3a484369ce-1800x1200.png?q=95&auto=format&dpr=2)
 

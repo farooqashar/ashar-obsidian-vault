@@ -7,6 +7,7 @@ created: 2026-11-14
 description:
 tags:
   - "clippings"
+  - "fun"
 ---
 Iteration 1
 

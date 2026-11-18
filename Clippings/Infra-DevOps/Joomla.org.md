@@ -8,6 +8,8 @@ created: 2026-11-15
 description: "Joomla! is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla! is free and open source."
 tags:
   - "clippings"
+  - "web-frameworks"
+  - "personal-sites"
 ---
 ## Why Joomla?
 

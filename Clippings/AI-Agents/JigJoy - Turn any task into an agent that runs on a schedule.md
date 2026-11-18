@@ -8,6 +8,8 @@ created: 2026-11-14
 description: "Tell JigJoy what you need in plain words. It builds the agent, connects your Gmail and Calendar, and runs it on a schedule — in the cloud or on your computer. Free to start."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 Tell it what you need in plain words. JigJoy builds the agent, connects your Gmail and Calendar, and runs it on a schedule — in the cloud or on your computer.
 
