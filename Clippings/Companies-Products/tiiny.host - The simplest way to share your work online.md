@@ -7,6 +7,8 @@ created: 2026-11-19
 description:
 tags:
   - "clippings"
+  - "saas-products"
+  - "personal-sites"
 ---
 ![](https://tiiny.host/assets/img/quote-auth-7.jpg) ![](https://tiiny.host/assets/img/quote-auth-5.jpg) ![](https://tiiny.host/assets/img/quote-auth-6.jpg) ![](https://tiiny.host/assets/img/quote-auth-1.jpg)
 

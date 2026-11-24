@@ -8,6 +8,8 @@ created: 2026-11-20
 description: "FrontierHarness Eval v1.1 ran 22 coding-agent harnesses with 5 models on the same 62 tasks, 4 times each: 27,280 runs. The best-value harness was different with each model, and cost ranks moved far between models. With the model fixed, the most expensive harness cost 1.8 to 5.0 times as much per task as the cheapest."
 tags:
   - "clippings"
+  - "coding-agents"
+  - "llm-providers"
 ---
 ## TL;DR
 

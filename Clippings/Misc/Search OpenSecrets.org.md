@@ -7,6 +7,8 @@ created: 2026-11-22
 description: "OpenSecrets is the nation's premier research and government transparency group tracking money in politics and its effect on elections and policy."
 tags:
   - "clippings"
+  - "databases"
+  - "scraping-data"
 ---
 ## Follow the Money
 

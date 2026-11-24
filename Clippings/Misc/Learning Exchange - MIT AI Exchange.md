@@ -7,6 +7,7 @@ created: 2026-11-20
 description: "Education in the AI era: teaching with AI, teaching about AI, and understanding how AI changes learning."
 tags:
   - "clippings"
+  - "mit-courses"
 ---
 ## Learning Exchange
 

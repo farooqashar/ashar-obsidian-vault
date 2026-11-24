@@ -7,6 +7,7 @@ created: 2026-11-18
 description:
 tags:
   - "clippings"
+  - "fun"
 ---
 Anonymous activity. Sign in to see who's behind it.
 

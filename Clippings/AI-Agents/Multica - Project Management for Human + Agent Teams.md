@@ -7,6 +7,8 @@ created: 2026-11-23
 description: "Source-available platform that turns coding agents into real teammates. Assign tasks, track progress, compound skills."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "coding-agents"
 ---
 ## Turn Claude Code, Codex, Cursor, Hermes, OpenCode, GitHub Copilot, Antigravity, Qwen Code, Kimi CLI, or Pi into a teammate.
 

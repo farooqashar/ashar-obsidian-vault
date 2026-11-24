@@ -7,6 +7,8 @@ created: 2026-11-20
 description: "A messenger between you and your AI agents: they text you when they're done or stuck, you decide from the lock screen, and the conversation goes both ways."
 tags:
   - "clippings"
+  - "agent-infra"
+  - "saas-products"
 ---
 🐦 **Your agent learns Pidge from one paste.** A self-documenting manifest hands it the whole protocol — no docs to read, no SDK to install.
 

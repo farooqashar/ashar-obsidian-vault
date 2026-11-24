@@ -8,6 +8,8 @@ created: 2026-11-20
 description: "Google introduces Gemini 4 Neon, delivering frontier-level intelligence for complex coding and analysis at a lower cost. See what's new."
 tags:
   - "clippings"
+  - "llm-providers"
+  - "coding-agents"
 ---
 Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.
 

@@ -7,6 +7,7 @@ created: 2026-11-20
 description:
 tags:
   - "clippings"
+  - "mit-courses"
 ---
 **MAS.863/4.140/6.9020**  
 ***How To Make (almost) Anything***  

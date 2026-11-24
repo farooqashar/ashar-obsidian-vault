@@ -8,6 +8,7 @@ created: 2026-11-22
 description: "Learn Swift coding for iOS with these free Swift tutorials"
 tags:
   - "clippings"
+  - "devops-practice"
 ---
 Join over 100,000 readers today
 

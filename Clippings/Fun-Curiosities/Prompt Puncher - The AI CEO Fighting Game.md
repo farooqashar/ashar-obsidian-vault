@@ -8,6 +8,7 @@ created: 2026-11-22
 description: "Prompt Puncher is a free browser fighting game where AI CEOs throw hands. Fight as Elon Musk, Sam Altman, Mark Zuckerberg, and more. No downloads or signups required."
 tags:
   - "clippings"
+  - "fun"
 ---
 ## PromptPuncher
 

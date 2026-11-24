@@ -7,6 +7,8 @@ created: 2026-11-17
 description: "a working manifesto. notes-to-self, mostly. A reminder, in plain text, of what I think humans actually bring to the table now that the machines are very good and getting better every day."
 tags:
   - "clippings"
+  - "essays"
+  - "personal-sites"
 ---
 ## HUMAN.md
 

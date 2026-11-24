@@ -7,6 +7,8 @@ created: 2026-11-20
 description: "A catalog of open-source alternatives to common proprietary tools: what transfers, what does not, how hard the move is, and step-by-step checklists. Runs in your browser with no account."
 tags:
   - "clippings"
+  - "devops-practice"
+  - "privacy"
 ---
 ## Open-source alternatives to 19 tools
 

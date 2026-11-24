@@ -7,6 +7,7 @@ created: 2026-11-20
 description: "Amazon Photos offers free online photo storage to Prime members, who can save and share unlimited photos on desktop, mobile, and tablet."
 tags:
   - "clippings"
+  - "saas-products"
 ---
 ## Unlimited photo storage
 

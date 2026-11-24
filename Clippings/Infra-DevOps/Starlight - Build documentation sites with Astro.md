@@ -7,6 +7,8 @@ created: 2026-11-18
 description: "Starlight helps you build beautiful, high-performance documentation websites with Astro."
 tags:
   - "clippings"
+  - "web-frameworks"
+  - "personal-sites"
 ---
 ![](https://starlight.astro.build/_astro/hero-star.CRrHICv4_Z1lBjS1.webp)
 

@@ -7,6 +7,7 @@ created: 2026-11-19
 description: "China, Japan, Korea: What's the difference?"
 tags:
   - "clippings"
+  - "fun"
 ---
 ## Exam Room
 

@@ -7,6 +7,8 @@ created: 2026-11-20
 description: "Figma Make empowers you to turn ideas into reality with AI-powered design tools—generate, iterate, and build faster, all in one creative space."
 tags:
   - "clippings"
+  - "saas-products"
+  - "coding-agents"
 ---
 ## Figma Make
 
